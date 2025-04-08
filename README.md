@@ -1,2 +1,2 @@
 # metaverse-game
-A 3d metaverse game built using express, react and websockets
+Building a 3D metaverse game using react, express, websockets
