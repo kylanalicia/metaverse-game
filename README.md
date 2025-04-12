@@ -54,8 +54,7 @@ Server will run on: http://localhost:3001
 npm test
 
 ## 📸 Screenshot
-![Tests Passing] (https://github.com/kylanalicia/metaverse-game/blob/main/tests-passed.png?raw=true)
-
+![Tests Passing](https://github.com/kylanalicia/metaverse-game/blob/main/tests-passed.png?raw=true)
 
 ## 👩🏽‍💻 Author
 Alicia Kimani
