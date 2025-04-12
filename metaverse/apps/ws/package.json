@@ -10,5 +10,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.7",
+    "esbuild": "^0.24.0",
+    "jsonwebtoken": "^9.0.2",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@repo/db": "workspace: *",
+    "@types/ws": "^8.18.1"
+  }
 }
