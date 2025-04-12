@@ -79,6 +79,8 @@ join	Join a space
 space-joined	Acknowledgement of join
 user-joined	Broadcast when a user joins
 
+![Tests Passing] (https://github.com/kylanalicia/metaverse-game/blob/main/tests-passed.png?raw=true)
+
 👩🏽‍💻 Author
 Alicia Kimani
 Aspiring Software & Cloud Engineer
