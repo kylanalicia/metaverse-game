@@ -41,10 +41,8 @@ This project powers the server-side logic, user authentication, metadata managem
 git clone https://github.com/kylanalicia/metaverse-game
 cd metaverse
 
+
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 
 3. Setup Environment Variables
