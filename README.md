@@ -33,6 +33,7 @@ This project powers the server-side logic, user authentication, metadata managem
 ## Setup Instractions
 ### 1. Clone the Repository
 git clone https://github.com/kylanalicia/metaverse-game
+
 cd metaverse-game
 
 ### 2. Install Dependencies
@@ -41,7 +42,9 @@ npm install
 ### 3. Setup Environment Variables
 Create a .env file in the root directory with the following:
 DATABASE_URL=postgresql://user:password@localhost:5432/metaverse_db
+
 JWT_SECRET=your_jwt_secret
+
 PORT=8000
 ### 4. Run Migrations
 npx prisma generate
