@@ -61,7 +61,9 @@ npm test
 
 ## 👩🏽‍💻 Author
 Alicia Kimani
+
 Aspiring Software & Cloud Engineer
+
 📧 aliciakimani.ky@gmail.com
 
 ## 🌐 License
