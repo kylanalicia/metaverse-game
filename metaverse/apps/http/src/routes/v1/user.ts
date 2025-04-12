@@ -51,6 +51,4 @@ userRouter.get("/metadata/bulk", async(req, res) => {
             avatarId: m.avatar?.imageUrl
         }))
     })
-  
-
 })
